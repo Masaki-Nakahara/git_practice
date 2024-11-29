@@ -1,3 +1,3 @@
 print('hello github')
 print('create new branch')
-print('lesson pull request')
+print('Lesson pull request')
